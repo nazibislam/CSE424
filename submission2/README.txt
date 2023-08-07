@@ -8,7 +8,7 @@ Paper title:
 Mining Error Templates for Grammatical Error Correction
 
 Link to the paper:
-https://aclanthology.org/2023.acl-long.380.pdf
+https://arxiv.org/abs/2206.11569
 
 Group Number:
 20
